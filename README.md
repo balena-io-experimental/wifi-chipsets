@@ -1,2 +1,3 @@
 # wifi-chipsets
-Best performing WiFi chipsets under balenaOS
+
+Placeholder for upcoming best performing WiFi chipsets under balenaOS comparison
